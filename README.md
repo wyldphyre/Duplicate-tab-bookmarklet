@@ -1,0 +1,2 @@
+Duplicate-tab-bookmarklet
+=========================
